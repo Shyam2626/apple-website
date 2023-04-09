@@ -1,0 +1,168 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+a{
+    text-decoration: none;
+}
+h1{
+    font-size: 3rem;
+}
+h4{
+    font-size: 2rem;;
+}
+h3{
+    color: red;
+}
+.offer{
+    text-align: center;
+}
+.para{
+    position: relative;
+}
+.navbar{
+    position: sticky;
+    background-color: black;
+    width: 100%;
+    height: 45px;
+}
+.logo{
+    position: relative;
+    margin-left: 110px;
+    top:10px;
+}
+.navstore{
+    position: relative;
+    left:40px;
+    background-color:rgba(22, 22, 23, 8);;
+    color:white;
+    text-decoration: none;
+}
+.navmac{
+    position: relative;
+    left:70px;
+    text-decoration: none;
+    color:white;
+}
+.navipad{
+    position: relative;
+    left:100px;
+    text-decoration: none;
+    color:white;
+}
+.naviphone{
+    position: relative;
+    left:130px;
+    text-decoration: none;
+    color:white;
+}
+.navwatch{
+    position: relative;
+    left:160px;
+    text-decoration: none;
+    color:white;
+}
+.navairpodes{
+    position: relative;
+    left:190px;
+    text-decoration: none;
+    color:white;
+}
+.navTV{
+    position: relative;
+    left:210px;
+    text-decoration: none;
+    color:white;
+}
+.naventertainment{
+    position: relative;
+    left:240px;
+    text-decoration: none;
+    color:white;
+}
+.navaccessories{
+    position: relative;
+    left:270px;
+    text-decoration: none;
+    color:white;
+}
+.navsupport{
+    position: relative;
+    left:300px;
+    text-decoration: none;
+    color:white;
+}
+.search{
+    position:absolute;
+    right:230px;
+    top:10px;
+}
+.purchase{
+    position: absolute;
+    right:175px;
+    top:10px
+}
+.offer{
+    color:black;
+    height: 30px;
+    background-color: darkgray;
+    text-align: center;
+}
+.para{
+    top:5px;
+    text-decoration: none;
+}
+.shopy{
+    text-decoration: none;
+    color:dodgerblue;
+}
+.iphone1{
+    height:1000px;   
+    width: 100%;
+    background-color: thistle;
+}
+.white{
+    height:700px;
+    width:100%;
+}
+.iphone14{
+    position: absolute;
+    height: 200px;
+    width: 600px;
+    top:1100px;
+    left:350px;
+    size: 3rem;
+    line-height: 1;
+    text-align: center;
+}
+.buy{
+    font-size: 1.5rem;
+    position: relative;
+    left:20px;
+    color:dodgerblue;
+}
+.a{
+    font-size: 1.5rem;
+    color:dodgerblue ;
+}
+.phones{
+    position: relative;
+    right: 220px;
+}
+.watch1{
+    display: flex;
+}
+.watch1 img{
+   width: 50%;
+}
+.watchdiscription{
+    position: absolute;
+    bottom: 620px;
+    color:black;
+}
+.wwdc{
+    display: flex;
+}
+.wwdc img{
+    width: 50%;
+}
